@@ -1,0 +1,6 @@
+var	Q1	Q2	Q3	Q4	Q6	Q7	Q8	Q9
+u1	A	A	A	C	A	B	D	C
+u2	E	D	C	A	E	E	E	E
+u3	E	D	E	C	E	E	A	E
+u4	A	B	A	C	D	B	D	A
+u5	B	E	E	E	B	E	E	B
